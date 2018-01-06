@@ -1,6 +1,6 @@
 # ParticleSpin
 
-Playing around with particles with collisions and the new PostProcessing stack.
+Playing around with particles and collisions and the new PostProcessing stack.
 
 ![](https://thumbs.gfycat.com/AcidicReadyCoypu-size_restricted.gif)
 
